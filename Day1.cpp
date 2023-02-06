@@ -1,5 +1,6 @@
 // Newton School
 // Question of the Day - Mall and Coupons
+// 16/01/2023
 
 #include <bits/stdc++.h>
 using namespace std;

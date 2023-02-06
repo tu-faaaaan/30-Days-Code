@@ -1,5 +1,6 @@
 // Newton School
 // Question of the Day - Edward and Maths Competition
+// 18/01/2023
 
 #include <bits/stdc++.h>
 using namespace std;
