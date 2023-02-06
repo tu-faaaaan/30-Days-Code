@@ -1,5 +1,6 @@
 // Newton School
-// Question of the Day - Friends Or Not? !
+// Question of the Day - Friends Or Not?!
+// 17/01/2023
 
 #include <bits/stdc++.h>
 using namespace std;

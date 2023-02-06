@@ -1,5 +1,6 @@
 // Newton School
 // Question of the Day - Even Numbers - 2
+// 19/01/2023
 
 #include <bits/stdc++.h>
 using namespace std;
