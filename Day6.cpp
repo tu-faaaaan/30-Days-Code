@@ -1,6 +1,6 @@
 // Newton School
 // Question of the Day - Abhas and Numbers
-// 20/01/2023
+// 21/01/2023
 
 #include "bits/stdc++.h"
 using namespace std;
