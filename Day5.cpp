@@ -1,3 +1,7 @@
+// Newton School
+// Question of the Day - Emily and Triplets
+// 20/01/2023
+
 #include <bits/stdc++.h>
 using namespace std;
 
