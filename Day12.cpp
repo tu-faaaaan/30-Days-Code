@@ -1,4 +1,8 @@
-#include <bits/stdc++.h> // header file includes every Standard library
+// Newton School
+// Question of the Day - Play with 0's and 2's
+// 27/01/2023
+
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
