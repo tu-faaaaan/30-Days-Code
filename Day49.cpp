@@ -10,7 +10,7 @@ int main()
     int a, b, c;
     cin >> a >> b >> c;
     if ((a * 2 + b * 2) < c * 2)
-        cout << "Yes";
+        cout << "Yes" ;
     else
         cout << "No";
     return 0;
